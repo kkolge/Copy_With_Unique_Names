@@ -38,10 +38,9 @@ To run the application directly from its source code:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Image-Organizer-Copier.git](https://github.com/your-username/Image-Organizer-Copier.git)
-    cd Image-Organizer-Copier
+    git clone [https://github.com/kkolge/Copy_With_Unique_Names.git](https://github.com/kkolge/Copy_With_Unique_Names.git)
+    cd Copy_With_Unique_Names
     ```
-    *(Remember to replace `your-username/Image-Organizer-Copier.git` with the actual URL of your repository.)*
 
 2.  **Create and activate a virtual environment (highly recommended):**
     ```bash
@@ -116,4 +115,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 Developed by RFID Tags and Services
-[Optional: Your GitHub Profile Link, Website, or Email]
+Github: https://github.com/kkolge
